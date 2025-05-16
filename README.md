@@ -10,3 +10,9 @@ function main() {
     print("HelloWorld!");
 }
 ```
+### Variables
+
+```ks
+string name = "Haaziq" ;
+int age = 14 ;
+```
